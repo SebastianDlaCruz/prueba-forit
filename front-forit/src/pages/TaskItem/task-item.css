@@ -1,0 +1,49 @@
+.task-item{
+  display: grid;
+  place-content: center;
+  height: 100vh;
+}
+
+.task-item__section{
+  height: 100vh;
+  min-width: 1200px;
+}
+.task-item__header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.task-item__container-exit{
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  align-items: center;
+}
+
+.container-loader{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+
+
+  & .container-loader__loader{
+    transform: translateX(0%);
+    transition: transform 1s ease-in-out;
+  
+    &:hover{
+      transform: translateX(-36%);
+    }
+  }
+}
+
+.container-loader__button{
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    padding: 1.3rem;
+    font-size: 1.2rem;
+  }

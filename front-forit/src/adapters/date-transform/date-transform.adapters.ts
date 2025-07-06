@@ -1,0 +1,1 @@
+export const dateTransform = (date: string) => new Date(date).toLocaleDateString('en-AR');

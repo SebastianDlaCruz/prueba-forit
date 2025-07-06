@@ -1,0 +1,15 @@
+.state-task{
+  display: inline-block;
+  padding: .3em 1em;
+  border-radius: 4px;
+
+  &.pending{
+    border: 1px solid rgb(240, 15, 15);
+    background-color: rgba(240, 15, 15, 0.322);
+  }
+
+   &.completed{
+    border: 1px solid rgb(33, 199, 0);
+    background-color: rgba(33, 199, 0, 0.267)
+  }
+}

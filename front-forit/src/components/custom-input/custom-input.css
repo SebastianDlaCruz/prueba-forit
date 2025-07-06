@@ -1,0 +1,12 @@
+.custom-input{
+  display: flex;
+  flex-direction: column;
+  gap:4px;
+  width: 100%;
+
+  & input{
+    height: 49px;
+    width: inherit;
+    padding: 1em;
+  }
+}

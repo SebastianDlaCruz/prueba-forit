@@ -15,9 +15,9 @@ npm run dev
 
 ## Images de la app
 
-!["inicio"](/img/inicio.png")
-!["crear"]("/img/crear.png")
-!["nueva tarea"]("/img/nueva-tarea.png")
-!["editar"]("/img/actulizar.png")
-!["editado"]("/img/editado.png")
-!["ver"]("/img/editado.png")
+!["inicio"](/img/inicio.png)
+!["crear"](/img/crear.png)
+!["nueva tarea"](/img/nueva-tarea.png)
+!["editar"](/img/actulizar.png)
+!["editado"](/img/editado.png)
+!["ver"](/img/editado.png)

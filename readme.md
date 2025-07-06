@@ -1,6 +1,6 @@
 # Prueba técnica
 
-Clonar el repositorio, acceder a las carpeta back-forit con la terminal y  ejecutar.
+Clonar el repositorio. Descargar las dependencias, acceder a las carpeta back-forit con la terminal y  ejecutar.
 
 ```
 npm run start
@@ -15,9 +15,9 @@ npm run dev
 
 ## Images de la app
 
-!["inicio"](/img/inicio.png)
-!["crear"](/img/crear.png)
-!["nueva tarea"](/img/nueva-tarea.png)
-!["editar"](/img/actulizar.png)
-!["editado"](/img/editado.png)
-!["ver"](/img/editado.png)
+-!["inicio"](/img/inicio.png)
+-!["crear"](/img/crear.png)
+-!["nueva tarea"](/img/nueva-tarea.png)
+-!["editar"](/img/actulizar.png)
+-!["editado"](/img/editado.png)
+-!["ver"](/img/editado.png)
